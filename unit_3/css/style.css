@@ -1,0 +1,14 @@
+body {
+	background-color: #ffffff;
+	text-align: center;
+}
+
+h1, p, ul {
+	font-family: Helvetica;
+	color: #000000;
+}
+
+hr {width: 400px;
+	color: #000000;
+
+}
