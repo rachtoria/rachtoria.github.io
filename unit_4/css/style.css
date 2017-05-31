@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade|Quicksand');
+
+body {
+	background-color: #ffffff;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Bungee Shade', cursive;
+	font-size: 45px;
+	color: #000000;
+	text-align: center;
+}
+h2 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 35px;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+p, ul {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	color: #000000;
+	text-align: center;
+
+}
+
+hr {width: 400px;
+	color: #000000;
+
+}
+.logo_img {width: 500px;
+
+}
+
+.contact {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+	color: #000000;
+	text-align: center;
+
+}
+.links {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: center;
+	text-decoration: none;
+
+}
