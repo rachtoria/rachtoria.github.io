@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade|Quicksand');
+
+body {
+	background-color: #ffffff;
+	text-align: center;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+.headline {
+	font-family: 'Bungee Shade', cursive;
+	font-size: 25px;
+	color: #000000;
+	text-align: center;
+}
+
+
+p, ul {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	color: #000000;
+	text-align: center;
+
+}
+
+hr {width: 400px;
+	color: #000000;
+
+}
+.logo_img {width: 500px;
+
+}
+
+.contact {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+	color: #000000;
+	text-align: center;
+
+}
+.links {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: center;
+	text-decoration: none;
+
+}
