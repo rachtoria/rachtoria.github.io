@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	background-color: #1f1f1f;
+	text-align: center;
+	font-family: 'Open Sans'
+}
+
+header{
+	font-family: 'Homemade Apple';
+	color: #ffffff;
+	font-size: 45px;
+	padding: 30px 0px 30px 0px;
+}
+
+nav {
+	font-size: 1.8em;	
+} 
+
+nav a {
+  text-decoration: none;
+  color: #ffffff;
+  margin: 1.8em;
+  display: inline-block;
+}
+
+a:hover {
+    color: #7d84ae;
+}
+
+img {
+	width: 600px;
+	padding: 5px;
+	margin: 0 auto;
+}
+
+footer {
+	font-size: 18px;
+	text-decoration: none;
+	color: #ffffff;
+	padding: 15px 0px 15px 0px;
+}
+
+#left {
+	float: left;
+	padding-left: 85px;
+}
+
+#right {
+	float: right;
+	padding-right: 85px;
+}
+
+#left-2 {
+	float: left;
+	padding-left: 85px;
+}
+
+#right-2 {
+	float: right;
+	padding-right: 85px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
